@@ -1,1 +1,2 @@
-oke
+
+console.log("oke")
